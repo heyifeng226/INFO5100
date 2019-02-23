@@ -172,7 +172,7 @@ class Checkout{
     }
     public String toString() {
         String str = "     " + DessertShoppe.storeName + "\n     ----------------------\n";
-        //int length=DessertShoppe.maxSizeOfItemName;
+       
         int leftLength=22;
         int rightLength=10;
 
